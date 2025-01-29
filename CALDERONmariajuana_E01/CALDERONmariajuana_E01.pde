@@ -1,3 +1,6 @@
+//maria juana calderon
+// 202414590
+// E1 color y forma
 
 void setup(){
   size(500, 500);
